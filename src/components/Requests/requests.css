@@ -1,0 +1,39 @@
+.requests-container{
+    display: flex;
+    padding: 50px;
+    background-color: #8c8c8c;
+    height: 100vh;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.user-container{
+    padding: 15px;
+}
+.user-container div{
+    margin: 5px 0;
+}
+.avatar-img{
+    width: 150px;
+    height: 200px;
+    object-fit: scale-down;
+}
+.user-name{
+    color: white;
+}
+.request-button{
+    padding: 5px;
+    border:none;
+    border-radius: 10px;
+    background-color: #00000099;
+    color: white;
+    margin: 0 2px;
+}
+.request-button:hover{
+    background-color: white;
+    color:black;
+    transition: 0.3s;
+}
+.requests-info{
+    width: inherit;
+    color: white;
+}

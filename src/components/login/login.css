@@ -1,0 +1,35 @@
+.sign-in-text{
+    color: black !important;
+    border-radius: 0 15px 0 0;
+}
+.sign-up-text:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black !important;
+    transition: 0.3s;
+    border-radius: 15 0 0 0;
+}
+.logo-login{
+    background-image: url("../signup/logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+    margin-left: 68px;
+}
+.login-btn{
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top:15px;
+    transition: 0.3s;
+    
+}
+.login-btn:hover{
+    background-color: #ffffff94;
+}
+.sign-btn button:hover{
+    background-color: rgba(0, 0, 0, 0.301);
+    transition: 0.3s;
+}

@@ -1,0 +1,19 @@
+.color{
+    color: black !important;
+}
+.img-container{
+    float: left;
+    height: 100vh;
+}
+.profile-img{
+    width: 100px !important;
+}
+.img-container h1{
+    font-size:20px;
+}
+.my-post-container{
+    display: flex;
+}
+.my-posts-show-container{
+    width: 100%;
+}

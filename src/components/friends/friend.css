@@ -1,0 +1,28 @@
+.friend-container {
+    display: flex;
+    padding: 50px;
+    background-color: #8c8c8c;
+    height: 100vh;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.friend-button {
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: #00000099;
+    color: white;
+    margin: 0 2px;
+}
+
+.friend-button:hover {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+}
+
+.friend-info {
+    width: inherit;
+    color: white;
+}

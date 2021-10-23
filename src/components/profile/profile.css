@@ -1,0 +1,24 @@
+body{
+    background-color:#8c8c8c;
+    border: 2px solid white;
+}
+.profile-container{
+    display: flex;
+    justify-content: space-between;
+
+    background-color:#8c8c8c;
+}
+.img-container{
+    width: inherit;
+    border:2px solid white
+}
+.img-container img{
+    width: 279px;
+}
+
+ .admin-container{
+     padding: 20px;
+ }
+.img-container h1{
+    font-size: 35px !important;
+}

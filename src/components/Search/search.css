@@ -1,0 +1,39 @@
+.search-input{
+    border: 2px solid white;
+    border-radius: 15px;
+    background-color: #ffffff73 !important;
+    font-size: 15px;
+}
+.s-users h5{
+    color: white;
+    float: left;
+}
+
+.s-users button{
+float: right;
+}
+.add-button{
+    width: 65px;
+    border:none;
+    border-radius: 10px;
+    background-color: #00000099;
+    color: white;
+}
+
+.add-button:hover{
+    background-color: white;
+    color:black;
+    transition: 0.3s;
+}
+.delete-button{
+    width: 65px;
+    border:none;
+    border-radius: 10px;
+    background-color: #00000099;
+    color: white;
+}
+.delete-button:hover{
+    background-color: white;
+    color:black;
+    transition: 0.3s;
+}
